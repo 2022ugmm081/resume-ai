@@ -1,0 +1,18 @@
+# .dockerignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv
+.git
+.gitignore
+README.md
+SETUP.md
+.env
+.DS_Store
+*.log
+test_api.py
+example_usage.py
